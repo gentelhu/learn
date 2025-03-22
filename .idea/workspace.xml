@@ -5,12 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyfile/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/study-notes/GIT.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/linux.docx" beforeDir="false" afterPath="$PROJECT_DIR$/study-notes/linux.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/study-notes/python.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/mima_yanzheng.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/关闭点亮显示器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/判断是否构成三角形.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/序列和索引.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/循环语句空心菱形图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/接收用户输入分数信息.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/格式化输出商品名称和单价.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/模拟12306车票订票流程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/模拟京东的购物流程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/模拟手机通讯录.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/正则表达式提取文字.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/程序的跳转语句.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/统计字符串中出现指定字符的次数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/车牌归属地.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfile/防锁屏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/GIT.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/Python From Beginner to Expert note.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/Python From Beginner to Expert.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/linux.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/pls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/python.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/windows.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/wireshark.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-notes/~$GIT.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
