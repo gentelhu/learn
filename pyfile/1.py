@@ -1,22 +1,33 @@
-from enum import show_flag_values
-class student:#创建了一个类
-    school='北京大学'#这就是一个变量，类属性
-    #实例属性
-    def __init__(self,xm,age):#nm,age方法的参数，局部变量作用域只能在__init__内
-        self.name=xm#等号的左侧是实例改属性，xm是局部变量,将局部变量的xm值赋值给了实例属性self.name
-        self.age=age#实例属性的变量名称和局部变量的名称可以相同
-    # 定义在类当中的函数就是实例方法
-    def show(self):
-        print(f'你的名字叫：{self.name}\t你的年龄：{self.age}')#self打点的实例属性可以在整个类中使用
-#创建对象
-stu1=student('gentel',40)
-stu2=student('tom',28)
-stu3=student('jimi',30)
-#给类属性赋值
-s=student.school='音乐学院'
-print(s)
-lis=[stu1,stu2,stu3]#列表当中的元素是student类型的对象
-for item in lis:#item是列表当中的元素是student类型的对象
-    item.show()#用对象名打点调用实例方法
+class student:
+    def __init__(self,name,gender):
+        self.name=name#普通属性
+        self.__gender=gender#私有属性
+    #用装饰器将方法转成属性@property,让他去修饰方法
+    @property
+    def gender(self):#通过调用他把属性数值转给私有属性
+        return self.__gender#把属性当方法来使用，只能查看值不能修改值
+    #将gender设置成可写属性
+    @gender.setter#设置一个可写入方法
+    def gender(self,value):
+        if value!='men' and value!='wumen':
+            print('性别有误，已将性别默认设置为women')
+            self.__gender='women'
+        else:
+            self.__gender=value
+
+stu=student('gentel','men')
+# print(stu.gender)
+print(stu.name,'性别是私有的无法访问但是可以访问方法',stu.gender)
+#修改gender属性的值
+stu.gender='other'
+print(stu.gender)
+
+
+
+
+
+
+
+
 
 
