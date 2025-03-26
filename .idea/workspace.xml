@@ -6,33 +6,470 @@
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/mima_yanzheng.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/关闭点亮显示器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/判断是否构成三角形.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/序列和索引.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/循环语句空心菱形图.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/接收用户输入分数信息.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/格式化输出商品名称和单价.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/模拟12306车票订票流程.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/模拟京东的购物流程.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/模拟手机通讯录.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/正则表达式提取文字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/程序的跳转语句.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/统计字符串中出现指定字符的次数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/车牌归属地.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfile/防锁屏.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/GIT.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/Python From Beginner to Expert note.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/Python From Beginner to Expert.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/linux.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/pls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/python.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/windows.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/wireshark.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-notes/~$GIT.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese-chess/怎样快速提高棋艺.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese-chess/怎样快速提高棋艺.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese-chess/象棋基本功.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese-chess/象棋基本杀法.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/GIT.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/~$GIT.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/11.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1905显克维奇：十字军骑士.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1907罗德亚德·吉卜林：老虎！老虎！.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1915约翰·克里斯朵夫.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1924莱蒙特：福地.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1933蒲宁：阿尔谢尼耶夫的一生.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1946黑塞：荒原狼.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1949福克纳：我弥留之际.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1950罗素：幸福之路.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1954海明威：老人与海.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1957加缪：局外人.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1957加缪：鼠疫.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1958帕斯捷尔纳克：日瓦戈医生.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1965肖洛霍夫：静静的顿河.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1968川端康成：雪国.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1969萨·贝克特：等待戈多.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1970索尔仁尼琴：癌症楼.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1972伯尔短篇小说选.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1973怀特：人树.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1978辛格：卢布林的魔术师.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1982马尔克斯：百年孤独.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1984-乔治·奥威尔.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1984.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1994大江健三郎：万延元年的足球队.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1998萨拉马戈：修道院纪事.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/1999君特·格拉斯：猫与鼠.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/84号公路.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/Ao Man Yu Pian Jian  (Yi Wen Jing Dian ) - Jian _Ao Si Ding (Jane Austen).azw3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/DBTOP250.054.动物庄园 中文 6寸.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/H庄园的一次午餐.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/To Kill A Mockingbird.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/Wei Cheng - Qian Zhong Shu.azw3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一半明媚一半忧伤：民国那些女子.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一座向下修建的塔.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一张俊美的脸.约瑟芬·铁伊.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一生最爱纳兰词.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一生最爱诗经.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/一生的远行.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/万物有灵且美.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/三杯茶.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/不必惊讶.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/不能承受的生命之轻-米兰·昆德拉.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/丐世英雄.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/严歌苓作品：无出路咖啡馆.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/乌托邦〔英〕托马斯. 莫尔.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/书情书色.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/书蠹艳异录.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/京华烟云.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/人在西阳里：宁新路精短美文.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/人民公仆：奢侈与肮脏的权利见证.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/从此醉.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/何以笙箫默.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/傲慢与偏见.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/儒家修身九讲.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/儒林外史.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/克里希那穆提精选.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/八千里路云和月——行走在西气东输的大地上.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/公羊的节日.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/农民帝国.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/刑警马车.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/初刻拍案惊奇.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/别相信任何人.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/北京往事.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/北极圈失去了地平线.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/千禧年三部曲.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/午夜之门.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/博尔赫斯小说集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/卡拉马佐夫兄弟-陀思妥耶夫斯基.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/发条橙.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/发现母亲.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/变形记-卡夫卡.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/古拉格群岛-亚历山大·索尔仁尼琴.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/古文观止新编解读.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/只缘身在此山中.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/呼啸山庄-艾米莉·勃朗特.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/因为痛，所以叫青春.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/围城（修订版）.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/土匪羊.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/在天使手中.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/基督山伯爵-大仲马.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/1984.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/1Q84.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/X的悲剧.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/一个陌生女人的来信.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/万物有灵且美.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/三劍客.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/三口棺材.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/三杯茶.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/不去会死！.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/不抱怨的世界.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/不抱怨的世界2.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/且听风吟.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/世界十大禁书完美合集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《伽利略的苦恼》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《使命与心的极限》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《侦探伽利略》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《侦探俱乐部》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《信（手纸）》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《再生魔术之女》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《分身》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《十一字杀人》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《单恋》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《变身》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《同级生》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《名侦探的守则》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《名侦探的诅咒》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《回廊亭杀人事件》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《圣女的救济》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《嫌疑人X的献身》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《宿命》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《布鲁特斯的心脏》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《平行世界的爱情故事》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《幻夜》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《彷徨之刃》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《恶意》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《我杀了他》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《放学后》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《时生》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《杀人之门》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《毒笑小说》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《毕业前的杀人游戏》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《沉睡的森林》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《没有凶手的杀人夜》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《流星之绊》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《湖边凶杀案》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《濒死之眼》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《白夜行》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《秘密》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《红手指》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《美丽的凶器》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《超·杀人事件》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《过去我死去的家》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《雪地杀机》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《预知梦》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东野圭吾/[日]东野圭吾《黑笑小说》.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/东霓.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/丹布朗作品集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/优雅一生的装扮课.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/伯恩的身份.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/假若明天来临.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/傲慢与偏见.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/兔子屋的秘密.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/动物庄园.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/十一种孤独.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/博尔赫斯小说集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/吸血鬼日记1：觉醒.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/吸血鬼日记2：斗争.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/吸血鬼日记3：狂怒.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/吸血鬼日记4：黑暗重汇.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/告别天堂.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/呼啸山庄.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/哈利波特全集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/哈尔罗杰历险记.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/国富论.-.亚当斯密斯.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/在路上.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/基地.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/基督山伯爵.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/复杂-米歇尔沃尔德罗普.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/失落的秘符.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/安娜·卡列尼娜.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/安徒生童话.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/安房直子系列的附录.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/少有人走的路.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/山的童话-风的旱冰鞋.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/岁月的泡沫.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/巴黎圣母院.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/希区柯克悬念故事(全八册).mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/希腊神话故事.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/当我们谈论爱情时我们在谈论什么.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/彼得·潘.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/德川家康.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/心是孤独的猎手.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/忏悔录 - 奥古斯丁.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/悲惨世界.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/情人.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/我的前妻们.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/手绢上的花田.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/扫起落叶好过冬.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/挪威的森林.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/教父.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/敦煌.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/斯蒂芬·金_经典系列.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/日本四大推理奇书之黑死馆杀人事件.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/时间旅行者的妻子.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城(全集).mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城1-暮色.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城2-新月.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城3-月食.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城4 破晓.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/暮光之城5-午夜阳光.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/最初的爱情，最后的仪式.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/月亮和六便士.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/朗读者.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/末日逼近(上下).mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/查太莱夫人的情人.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/格林童话集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/森村诚一作品集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/橙.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/欧亨利短篇小说集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/汤姆叔叔的小屋.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/沙丘三部曲.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/海伯利安-[美]丹·西蒙斯.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/海边的卡夫卡.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/灿烂千阳.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/牧羊少年奇幻之旅.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/猫与鼠.prc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/生命中不能承受之轻.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/男人一本书.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/男人这东西.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/白鹦鹉的森林.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/百年孤独.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/直到花豆煮熟-小夜的故事.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/看不见的城市.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/看得见的与看不见的.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/硅谷禁书.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/福尔摩斯探案全集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/窗边的小豆豆.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/第一次一个人旅行.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/第二十二条军规.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/简·爱.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/红玫瑰旅馆的客人.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/约翰克利斯多夫.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/纳尼亚传奇（全集）.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/罪与罚.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/肖申克的救赎.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/舞!舞!舞!.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/花香小镇.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/荆棘鸟.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/莎士比亚全集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/莫泊桑短篇小说精选集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/菊与刀.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/蜘蛛女之吻.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/蝴蝶梦.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/达摩流浪者.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/达芬奇密码.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/追忆似水年华.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/追风筝的人.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/遥远的野玫瑰村.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/银孔雀.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/银河系漫游指南.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/银河英雄传说.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/阿狸·梦之城堡.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/阿狸·永远站.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/阿甘正传.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/阿甘正传续集.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/雪国.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/青春咖啡馆.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/静静的顿河.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/风与树的歌.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/香水—个谋杀犯的故事.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/魔戒（全集）.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/麦田里的守望者.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/黄昏海的故事.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/鼠疫.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/外国文学/龙纹身的女孩.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/大哥.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/大唐狄公案（全集）-(荷兰)高罗佩.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/大平原.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/大魔术师.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/天堂门·米香.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/天方夜谭.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/天行者：民办教师悲壮之歌.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/天黑以后.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/太宰治作品选.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/太阳城〔意〕康帕内拉.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/奇鸟行状录.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/奋斗.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/奋斗书.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/威尼斯商人〔英〕莎士比亚.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/安娜·卡列尼娜-列夫·托尔斯泰.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/安静的位置.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/官商.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/审判.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/宫本武藏·剑与禅.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/寂寞英雄.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/小团圆.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/小城.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/小忧伤.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/少年Pi的奇幻漂流（插图珍藏版）.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/少年维特的烦恼〔德〕歌德.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/尼采选集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/屠场.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/巴黎圣母院-维克多·雨果.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/巴黎圣母院.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/巴黎的盛宴.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/怪物.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/情人.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/我爱吸血鬼.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/战争与和平.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/探寻死亡之谜：西方死亡哲学（精选本）.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/敦煌.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/文化苦旅.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/斑鸠：一个北方乡村青年的忏悔录.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/斜阳.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/易中天品三国.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/是谁，在我的宋词里轻舞飞扬.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/月宫.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/朱颜记.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/查泰来夫人的情人.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/格林童话.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/梦幻宫殿.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/欧叶妮.格朗台〔法〕巴尔扎克.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/水浒传.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/水问.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/汤姆索亚历险记.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/汪晖访谈录.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/法兰西物语.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/津夜，往事随风.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/活着.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/浮世绘.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/海边的卡夫卡.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/消失中的江城.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/灿烂千阳.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/热爱生命.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/爱的艺术.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/狗狼.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/王小波全集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/珍珠.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/瓦地的小号.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/田园诗与狂想曲.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/男人来自火星，女人来自金星.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/白痴-陀思妥耶夫斯基.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/白色城堡.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/百年孤独-加西亚·马尔克斯.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/百年无废纸.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/盛夏的方程式.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/看电影学沟通.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/神秘岛.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/神雕侠侣.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/秦腔.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/窗外.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/窗边的小豆豆.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/童年〔苏联〕高尔基.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/第二十二条军规-约瑟夫·海勒.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/第十一诫.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/素年锦时：安妮宝贝最新小说散文集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/红城.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/红楼梦《脂砚斋重评石头记》新校本.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/红楼梦八十回后真故事.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/经典中国艺术史.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/结婚十年.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/绝唱老三届：1966—1968.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/罪与罚.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/群魔-陀思妥耶夫斯基.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/老人与海.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/耄耋新作.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/耶稣手稿之谜.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/肖申克的救赎.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/自私的基因.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/至死不渝.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/花落烟云梦.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第1届---李自成.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第1届---芙蓉镇.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第2届---沉重的翅膀.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第2届---钟鼓楼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第3届---少年天子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第3届---平凡的世界.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第3届---穆斯林的葬礼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第3届---第二个太阳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第3届---金瓯缺.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第4届---白门柳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第4届---白鹿原.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第4届---骚动之秋.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第5届---尘埃落定.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第5届---抉择.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第5届---茶人三部曲.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第5届---长恨歌.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第6届---东藏记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第6届---历史的天空.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第6届---张居正.Txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第6届---无字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第6届---英雄时代.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第7届---暗算.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第7届---湖光山色.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第7届---秦腔.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/茅盾文学奖/第7届---额尔古纳河右岸.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/荆棘鸟-考琳·麦考洛.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/荆棘鸟.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/莎士比亚全集-威廉·莎士比亚.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/莫泊桑短篇小说精选集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/藏地历险.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/藏地密码9.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/蛤蟆的油.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/被侮辱与被损害的人-陀思妥耶夫斯基.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/西厢记.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/西游记.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/警世通言.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/论语别裁.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诗经.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1901苏利·普吕多姆：孤独与沉思.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1905显克维奇：十字军骑士.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1907罗德亚德·吉卜林：老虎！老虎！.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1909尼尔斯骑鹅历险记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1909拉格洛夫：尼尔斯骑鹅历险记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1911梅特林克：青鸟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1911青鸟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1913《飞鸟集》泰戈尔.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1913泰戈尔：古檀迦利.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1915约翰·克里斯朵夫.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1924莱蒙特：福地.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1933蒲宁：阿尔谢尼耶夫的一生.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1946荒原狼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1946黑塞：荒原狼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1949福克纳：我弥留之际.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1950罗素：幸福之路.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1954海明威：老人与海.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1954老人与海.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1956小毛驴与我.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1957加缪 鼠疫.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1957加缪：局外人.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1957加缪：鼠疫.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1958帕斯捷尔纳克：日瓦戈医生.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1965肖洛霍夫：静静的顿河.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1968川端康成：雪国.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1969萨·贝克特：等待戈多.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1970索尔仁尼琴：癌症楼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1972伯尔短篇小说选.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1973怀特：人树.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1978辛格 卢布林的魔术师.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1978辛格：卢布林的魔术师.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1982霍乱时期的爱情.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1982马尔克斯 百年孤独.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1982马尔克斯：百年孤独.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1994万延元年的足球队.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1994大江健三郎：万延元年的足球队.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1998萨拉马戈：修道院纪事.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/1999君特·格拉斯：猫与鼠.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/2000灵山.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/2000高行健：灵山.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/2003等待野蛮人.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/诺贝尔经典文集/2006我的名字叫红.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/赋得永久的悔.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/边疆.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/追风筝的人-卡勒德·胡赛尼.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/那些男孩教我的事.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/邮差：诺贝尔文学奖得主聂鲁达的故事.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/金阁寺：三岛独特美学观成熟的标志.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/铁梨花.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/闲话红楼.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/阿特拉斯耸耸肩--安·兰德.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/阿里.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/陀思妥耶夫斯基中短篇小说选.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/陀思妥耶夫斯基短篇小说集.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/隐身新娘.6寸版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/震中在人心.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/霜冷长河.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/青春咖啡馆-莫迪亚诺.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/鞑靼人沙漠.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/飘(乱世佳人）-亚历山德拉·瑞普利.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/饥饿游戏（三部曲）.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/饮马流花河.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/骆驼祥子.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/麦田里的守望者-杰罗姆·大卫·塞林格.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/黑色笔记.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature 455/黑花黄.epub" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +488,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,5 +525,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python file/learning/1.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python file/learning/1.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

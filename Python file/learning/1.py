@@ -1,26 +1,26 @@
-class student:
-    def __init__(self,name,gender):
-        self.name=name#普通属性
-        self.__gender=gender#私有属性
-    #用装饰器将方法转成属性@property,让他去修饰方法
-    @property
-    def gender(self):#通过调用他把属性数值转给私有属性
-        return self.__gender#把属性当方法来使用，只能查看值不能修改值
-    #将gender设置成可写属性
-    @gender.setter#设置一个可写入方法
-    def gender(self,value):
-        if value!='men' and value!='wumen':
-            print('性别有误，已将性别默认设置为women')
-            self.__gender='women'
-        else:
-            self.__gender=value
+class person:#没有加（）默认是object的父类
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+    def show(self):
+        print(f"大家好我叫：{self.name},我今年是{self.age}岁")
 
-stu=student('gentel','men')
-# print(stu.gender)
-print(stu.name,'性别是私有的无法访问但是可以访问方法',stu.gender)
-#修改gender属性的值
-stu.gender='other'
-print(stu.gender)
+#接下来建立一个子类student去继承父类person
+class student(person):#继承了父类拥有了当中公有的内容和受保护的东西
+    def __init__(self,name,age,id):#name,age父类有可以继承，子类中新建了id
+        super().__init__(name,age)#调用父类的初始化方法
+        self.id=id
+class doctor(person):#新建一个Doctor类
+    def __init__(self,name,age,departmen):#建了一个部门的属性
+        super().__init__(name,age)
+        self.departmen=departmen
+
+ #创建子类对象
+stu=student('tom',20,'1001')
+stu.show()
+doc=doctor('gentel',30,'surgery')
+#调用父类公有的方法
+doc.show()
 
 
 
