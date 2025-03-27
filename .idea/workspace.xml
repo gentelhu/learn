@@ -7,8 +7,10 @@
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/GIT.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/linux.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/linux.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/~$python.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/~$GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/~$GIT.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/~WRL2586.tmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python file/learning/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -33,8 +36,8 @@
     "Python.1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Mercurial"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -76,6 +79,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="TEXT_FILTER_SETTINGS">
                 <TextFilterSettings>
                   <option name="REGEX" value="true" />
