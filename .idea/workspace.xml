@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/random模块功能举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/time函数的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/datetime模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/timedelta模块.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/打点名称使用模块.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +41,10 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.datetime模块.executor": "Run",
     "Python.load_bao.executor": "Run",
     "Python.mod2.executor": "Run",
+    "Python.timedelta模块.executor": "Run",
     "Python.time函数的使用.executor": "Run",
     "Python.面向对象的思想设计自定义类.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
