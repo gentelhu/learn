@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/datetime模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/timedelta模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/requests爬取百度log图片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/requests爬虫模块的字符串使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/将爬取天所数据导入excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/工作排产练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/读取excel数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/system.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
     </list>
@@ -44,14 +51,20 @@
     "Python.datetime模块.executor": "Run",
     "Python.load_bao.executor": "Run",
     "Python.mod2.executor": "Run",
+    "Python.requests爬取百度log图片.executor": "Run",
+    "Python.requests爬虫模块的使用.executor": "Run",
+    "Python.requests爬虫模块的字符串使用.executor": "Run",
     "Python.timedelta模块.executor": "Run",
     "Python.time函数的使用.executor": "Run",
+    "Python.将爬取天所数据导入excel.executor": "Run",
+    "Python.工作排产练习.executor": "Run",
+    "Python.读取excel数据.executor": "Run",
     "Python.面向对象的思想设计自定义类.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/gentel/learn/system/Python file/learning",
-    "settings.editor.selected.configurable": "vcs.Mercurial"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
