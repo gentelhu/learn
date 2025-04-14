@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/pil模块图像颜色交换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/pyecharts做饼状图1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/pyecharts做饼状图2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/胎圈各机台排产产能占比图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/jieba_dabao_exe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/jieba模块实现中文分词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/工作ems自己填写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/平板电脑评介词云图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/推算几天后的日期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的写入操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的基本操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的复制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的读取操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/爬取用户的评论.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/高铁售票系统.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/GIT.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/Python From Beginner to Expert.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/excel/~$JQ手机销售数据.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/numpy的模块图像的灰度处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/numpy的模块图像的灰度处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/~$胎圈排产2025.4.9mm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/景区天气.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/胎圈排产2025.4.9mm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/txt/note.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +49,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python 测试.Doctests (adapters 内).executor": "Debug",
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
     "Python.datetime模块.executor": "Run",
+    "Python.jieba模块实现中文分词.executor": "Run",
     "Python.load_bao.executor": "Run",
     "Python.mod2.executor": "Run",
     "Python.numpy的模块图像的灰度处理.executor": "Run",
@@ -62,17 +62,30 @@
     "Python.pyecharts做饼状图2.executor": "Run",
     "Python.pyecharts的使用.executor": "Run",
     "Python.requests爬取百度log图片.executor": "Run",
+    "Python.requests爬取评论.executor": "Run",
     "Python.requests爬虫模块的使用.executor": "Run",
     "Python.requests爬虫模块的字符串使用.executor": "Run",
     "Python.timedelta模块.executor": "Run",
     "Python.time函数的使用.executor": "Run",
+    "Python.vip.executor": "Run",
+    "Python.vip_Video_parsing.executor": "Run",
+    "Python.weather.executor": "Run",
     "Python.从pdf中提取数据.executor": "Run",
     "Python.将爬取天所数据导入excel.executor": "Run",
+    "Python.工作ems自己填写.executor": "Run",
     "Python.工作排产练习.executor": "Run",
+    "Python.平板电脑评介词云图.executor": "Run",
+    "Python.循环语句空心菱形图.executor": "Run",
+    "Python.推算几天后的日期.executor": "Run",
+    "Python.文件的写入操作.executor": "Run",
+    "Python.文件的基本操作.executor": "Run",
+    "Python.文件的复制.executor": "Run",
+    "Python.文件的读取操作.executor": "Run",
     "Python.用pandas读取excel数据并用matplotlib画图.executor": "Run",
     "Python.胎圈各机台排产产能占比图.executor": "Run",
     "Python.读取excel数据.executor": "Run",
     "Python.面向对象的思想设计自定义类.executor": "Run",
+    "Python.高铁售票系统.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -84,6 +97,38 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\gentel\learn\system\Python file\learning" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gentel\learn\system\Python file\learning" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="高铁售票系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python file/learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python file/learning/高铁售票系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.高铁售票系统" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
