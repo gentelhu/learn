@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/jieba_dabao_exe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/jieba模块实现中文分词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/工作ems自己填写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/平板电脑评介词云图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/推算几天后的日期.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的写入操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的基本操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的复制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/文件的读取操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/爬取用户的评论.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/高铁售票系统.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/txt/note.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
