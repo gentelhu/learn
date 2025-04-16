@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 #读取excel文件
 df=pd.read_excel('excel/JQ手机销售数据.xlsx')
-# print(df)
+print(df)
 #绘图会产生中中文乱码，所以先解决中文乱码的问题，
 plt.rcParams['font.sans-serif'] = ['SimSun']
 #绘图需要设置画布的大小
