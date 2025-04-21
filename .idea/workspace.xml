@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/txt/automatic_reply.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/实战淘宝自动回复.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/服务器端socket模块的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程客户端的多次通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程客户端的流程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程服务器端的多次通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/UDP编程发送方.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/UDP编程接收方.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/实战：模拟客服咨询小程序客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/实战：模拟客服咨询小程序服务端.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/bbb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/bbb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/服务器端socket模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/TCP编程服务器端的流程.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,9 @@
     "Python.2.executor": "Run",
     "Python.Downloads.executor": "Run",
     "Python.Query_beads.executor": "Run",
+    "Python.TCP编程客户端的流程.executor": "Run",
+    "Python.UDP编程发送方.executor": "Run",
+    "Python.UDP编程接收方.executor": "Run",
     "Python.bbb.executor": "Run",
     "Python.datetime模块.executor": "Run",
     "Python.jieba模块实现中文分词.executor": "Run",
@@ -75,6 +81,7 @@
     "Python.实战_批量创建文件.executor": "Run",
     "Python.实战三：记录用户登录日志并查看.executor": "Run",
     "Python.实战淘宝自动回复.executor": "Run",
+    "Python.实战：模拟客服咨询小程序服务端.executor": "Run",
     "Python.将爬取天所数据导入excel.executor": "Run",
     "Python.工作ems自己填写.executor": "Run",
     "Python.工作排产练习.executor": "Run",
