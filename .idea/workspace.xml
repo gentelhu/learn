@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/os模块的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/os的子模块path的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/实战_批量创建文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/实战三：记录用户登录日志并查看.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/批量创建文件夹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/txt/automatic_reply.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/实战淘宝自动回复.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/服务器端socket模块的使用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/network_security.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/myself_py/Query_beads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/bbb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/bbb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
     "Python.2.executor": "Run",
     "Python.Downloads.executor": "Run",
     "Python.Query_beads.executor": "Run",
+    "Python.bbb.executor": "Run",
     "Python.datetime模块.executor": "Run",
     "Python.jieba模块实现中文分词.executor": "Run",
     "Python.load_bao.executor": "Run",
@@ -75,6 +74,7 @@
     "Python.从网络安全pdf中提取数据.executor": "Run",
     "Python.实战_批量创建文件.executor": "Run",
     "Python.实战三：记录用户登录日志并查看.executor": "Run",
+    "Python.实战淘宝自动回复.executor": "Run",
     "Python.将爬取天所数据导入excel.executor": "Run",
     "Python.工作ems自己填写.executor": "Run",
     "Python.工作排产练习.executor": "Run",
@@ -86,6 +86,7 @@
     "Python.文件的基本操作.executor": "Run",
     "Python.文件的复制.executor": "Run",
     "Python.文件的读取操作.executor": "Run",
+    "Python.服务器端socket模块的使用.executor": "Run",
     "Python.用pandas读取excel数据并用matplotlib画图.executor": "Run",
     "Python.胎圈各机台排产产能占比图.executor": "Run",
     "Python.读取excel数据.executor": "Run",
@@ -95,7 +96,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "F:/gentel/learn/system/Python file/learning",
+    "last_opened_file_path": "F:/gentel/learn/system",
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
@@ -182,7 +183,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="gitee/HEAD" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
