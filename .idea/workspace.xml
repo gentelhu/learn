@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程客户端的多次通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程客户端的流程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/TCP编程服务器端的多次通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/UDP编程发送方.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/UDP编程接收方.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/实战：模拟客服咨询小程序客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/实战：模拟客服咨询小程序服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/多个进程之间数据是否共享.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/进程池阻塞方式执行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/进程池非阻塞方式执行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/队列的基本使用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/服务器端socket模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/TCP编程服务器端的流程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/process类常的方法1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/process类常的方法1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/process类常的方法2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/process类常的方法2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/使用multiprocessing模块创建进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/使用multiprocessing模块创建进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/子类的方式创建进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/子类的方式创建进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/myself_py/clinet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/myself_py/server.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,8 @@
     "Python.os模块的使用.executor": "Run",
     "Python.os的子模块path的使用.executor": "Run",
     "Python.pil模块图像颜色交换.executor": "Run",
+    "Python.process类常的方法1.executor": "Run",
+    "Python.process类常的方法2.executor": "Run",
     "Python.pyecharts.executor": "Run",
     "Python.pyecharts做饼状图2.executor": "Run",
     "Python.pyecharts的使用.executor": "Run",
@@ -78,6 +83,9 @@
     "Python.一维数据和二维数据的存储.executor": "Run",
     "Python.从pdf中提取数据.executor": "Run",
     "Python.从网络安全pdf中提取数据.executor": "Run",
+    "Python.使用multiprocessing模块创建进程.executor": "Run",
+    "Python.多个进程之间数据是否共享.executor": "Run",
+    "Python.子类的方式创建进程.executor": "Run",
     "Python.实战_批量创建文件.executor": "Run",
     "Python.实战三：记录用户登录日志并查看.executor": "Run",
     "Python.实战淘宝自动回复.executor": "Run",
@@ -97,6 +105,10 @@
     "Python.用pandas读取excel数据并用matplotlib画图.executor": "Run",
     "Python.胎圈各机台排产产能占比图.executor": "Run",
     "Python.读取excel数据.executor": "Run",
+    "Python.进程池阻塞和非阻塞的区别.executor": "Run",
+    "Python.进程池阻塞方式执行.executor": "Run",
+    "Python.进程池非阻塞方式执行.executor": "Run",
+    "Python.队列的基本使用.executor": "Run",
     "Python.面向对象的思想设计自定义类.executor": "Run",
     "Python.高维数据的存储.executor": "Run",
     "Python.高铁售票系统.executor": "Run",
