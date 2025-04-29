@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="创建线程和linux-2025.4.24">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/openpyxl创建excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/使用队列实现消费者与生产者.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/多人聊天室/使用第三方库wxPython绘制客户端界面.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/多人聊天室/多人聊天室.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/多人聊天室/绘制服务器端界面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/多个文件合并成多个工作表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/多个表格合并数据excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/工资表综合数据生成个人数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,10 @@
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python313/Lib/site-packages/openpyxl/styles/colors.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/openpyxl/openpyxl/styles/fonts.pyi" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -85,7 +86,10 @@
     "Python.使用第三方库wxPython绘制客户端界面.executor": "Run",
     "Python.使用队列实现消费者与生产者.executor": "Run",
     "Python.使用队列实现进程之间的通信.executor": "Run",
+    "Python.合并excel.executor": "Run",
     "Python.向已满的队列中添加元素.executor": "Run",
+    "Python.多个文件合并成多个工作表.executor": "Run",
+    "Python.多个表格合并数据excel.executor": "Run",
     "Python.多个进程之间数据是否共享.executor": "Run",
     "Python.如何创建线程.executor": "Run",
     "Python.子类的方式创建进程.executor": "Run",
@@ -96,6 +100,7 @@
     "Python.将爬取天所数据导入excel.executor": "Run",
     "Python.工作ems自己填写.executor": "Run",
     "Python.工作排产练习.executor": "Run",
+    "Python.工资表综合数据生成个人数据.executor": "Run",
     "Python.平板电脑评介词云图.executor": "Run",
     "Python.循环语句空心菱形图.executor": "Run",
     "Python.批量创建文件夹.executor": "Run",
@@ -123,7 +128,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/gentel/learn/system",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
