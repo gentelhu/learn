@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="创建线程和linux-2025.4.24">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/多个文件合并成多个工作表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/多个表格合并数据excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/工资表综合数据生成个人数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/统计加班时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/隔行变色.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/myself_py/日历.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/auto_office/openpyxl创建excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/auto_office/openpyxl创建excel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,11 +111,13 @@
     "Python.文件的基本操作.executor": "Run",
     "Python.文件的复制.executor": "Run",
     "Python.文件的读取操作.executor": "Run",
+    "Python.日历.executor": "Run",
     "Python.服务器端socket模块的使用.executor": "Run",
     "Python.用pandas读取excel数据并用matplotlib画图.executor": "Run",
     "Python.线程之间的数据是否共享.executor": "Run",
     "Python.线程操作共享数据的安全性问题.executor": "Run",
     "Python.绘制服务器端界面.executor": "Run",
+    "Python.统计加班时间.executor": "Run",
     "Python.继承式创建线程.executor": "Run",
     "Python.胎圈各机台排产产能占比图.executor": "Run",
     "Python.读取excel数据.executor": "Run",
@@ -121,6 +125,7 @@
     "Python.进程池阻塞方式执行.executor": "Run",
     "Python.进程池非阻塞方式执行.executor": "Run",
     "Python.队列的基本使用.executor": "Run",
+    "Python.隔行变色.executor": "Run",
     "Python.面向对象的思想设计自定义类.executor": "Run",
     "Python.高维数据的存储.executor": "Run",
     "Python.高铁售票系统.executor": "Run",
@@ -128,7 +133,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/gentel/learn/system",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -136,6 +141,7 @@
       <recent name="F:\gentel\learn\system\Python file\learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gentel\learn\system\Python file\learning\auto_office" />
       <recent name="F:\gentel\learn\system\Python file\learning\多人聊天室" />
       <recent name="F:\gentel\learn\system\Python file\learning" />
       <recent name="F:\gentel\learn\system\Python file\myself_py" />
@@ -259,6 +265,10 @@
           <url>file://$PROJECT_DIR$/Python file/learning/高维数据的存储.py</url>
           <log-expression expression="mport json&#10;##准备数据&#10;lst=[&#10;    {'name':'gentel','age':20,'score':90},&#10;    {'name':'tom','age':21,'score':99},&#10;    {'name':'jeke','age':19,'score':89}&#10;]&#10;print(lst)&#10;##编码&#10;s=json.dumps(lst,ensure_ascii=False,indent=4)##ensure_ascii=False正常显示为中文、indent=4增加数据的缩进使json格式的字符串更有可读性&#10;print(type(s))##编码的过程，将字典转成了字符串类型&#10;print(s)&#10;##解码&#10;lst2=json.loads(s)&#10;print(type(lst2))&#10;print(lst2)&#10;&#10;##编码到文件中&#10;with open('txt/高维数据的存储.txt','w') as file:&#10;    json.dump(lst,file,ensure_ascii=False,indent=4)&#10;&#10;##解码到程序&#10;with open('txt/高维数据的存储.txt','r') as file:&#10;    lst3=json.load(file)&#10;    print(type(lst3))&#10;    print(lst3)" language="Python" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python file/learning/auto_office/统计加班时间.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

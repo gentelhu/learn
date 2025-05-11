@@ -37,15 +37,8 @@ def set_merge():
     sh1['d2']='纵向合并'
     wb.save('./excel/create.xlsx')
 
-
-
-
 if __name__ == '__main__':
     # new()
     # set_value()
     # set2_value()
     set_merge()
-
-
-
-
