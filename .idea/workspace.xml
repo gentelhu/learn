@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d580c32-c865-4e73-ae1c-05b92b5a3905" name="更改" comment="创建线程和linux-2025.4.24">
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/excel查重.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/auto_office/提取身份证号信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/海龟画图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/画出奥运五环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/绘制18乘18棋盘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file/learning/python2/绘制多个同心圆.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/cybersecurity_jaden.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Notes/linux.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/linux.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Notes/python.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Notes/python.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/auto_office/excel/bead_plan.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/auto_office/excel/bead_plan.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python file/learning/auto_office/excel/打卡时间.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python file/learning/auto_office/excel/打卡时间.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python file/learning/python2/aa.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/liuyao/野鹤派自学笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/liuyao/野鹤派自学笔记.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +49,7 @@
   "keyToString": {
     "Python 测试.Doctests (adapters 内).executor": "Debug",
     "Python.1.executor": "Run",
+    "Python.111.executor": "Run",
     "Python.2.executor": "Run",
     "Python.Downloads.executor": "Run",
     "Python.Query_beads.executor": "Run",
@@ -130,6 +126,7 @@
     "Python.画图.executor": "Run",
     "Python.线程之间的数据是否共享.executor": "Run",
     "Python.线程操作共享数据的安全性问题.executor": "Run",
+    "Python.绘制18乘18棋盘.executor": "Run",
     "Python.绘制服务器端界面.executor": "Run",
     "Python.统计加班时间.executor": "Run",
     "Python.继承式创建线程.executor": "Run",
